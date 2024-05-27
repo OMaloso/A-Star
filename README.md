@@ -12,7 +12,7 @@ If no path can be found, no path will be shown and the console will reiterate th
 Press R at any time to restart the program.
 
 ### Legend
-##### Source - Blue square with an 'S' 
+####### Source - Blue square with an 'S' 
 ##### Goal - Green square with a 'G'
 ##### Obstacles - Black square
 ##### Close List - Light brown square
