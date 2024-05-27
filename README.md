@@ -12,12 +12,12 @@ If no path can be found, no path will be shown and the console will reiterate th
 Press R at any time to restart the program.
 
 Legend
-Source: 	Blue square with an 'S'. 
-Goal:		Green square with a 'G'.
-Obstacles:	Black square.
-Close List:	Light brown square.
-Open List:	Cream square.
-Shortest Path:	Light brown square with blue circle.
+*Source: 	Blue square with an 'S'. 
+*Goal:		Green square with a 'G'.
+*Obstacles:	Black square.
+*Close List:	Light brown square.
+*Open List:	Cream square.
+*Shortest Path:	Light brown square with blue circle.
 
 
 ![Astar](https://github.com/OMaloso/A-Star/assets/88115296/d1183864-2e85-49d7-860d-a61d3f87f79b)
