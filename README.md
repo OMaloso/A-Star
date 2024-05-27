@@ -13,11 +13,11 @@ Press R at any time to restart the program.
 
 ### Legend
 ##### Source - Blue square with an 'S' 
-#####Goal - Green square with a 'G'
-#####Obstacles - Black square
-#####Close List - Light brown square
-#####Open List	- Cream square
-#####Shortest Path	- Light brown square with blue circle
+##### Goal - Green square with a 'G'
+##### Obstacles - Black square
+##### Close List - Light brown square
+##### Open List	- Cream square
+##### Shortest Path	- Light brown square with blue circle
 
 
 
