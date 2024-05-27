@@ -18,3 +18,7 @@ Obstacles:	Black square.
 Close List:	Light brown square.
 Open List:	Cream square.
 Shortest Path:	Light brown square with blue circle.
+
+
+![Astar](https://github.com/OMaloso/A-Star/assets/88115296/d1183864-2e85-49d7-860d-a61d3f87f79b)
+![Astar2](https://github.com/OMaloso/A-Star/assets/88115296/fb5b1ec0-cd3b-440c-8836-38abfdc22910)
